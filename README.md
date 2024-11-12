@@ -30,7 +30,7 @@ Aplikasi Penghitung Kata<br>
 # TAMPILAN APLIKASI YANG DIBUAT
 1. Tampilan awal aplikasi.<br>
 <img width="377" alt="image" src="https://github.com/user-attachments/assets/42c2b25e-b3dc-4fdb-8eb4-4fc77602c4f5"><br>
-2. Memasukkan teks dam mengklil button hitung.<br>
+2. Memasukkan teks dan mengklil button hitung.<br>
 <img width="379" alt="image" src="https://github.com/user-attachments/assets/66251624-799e-4861-b2d6-ee0f778b346f"><br>
 3. Melakukan pencarian kata ipsum.<br>
 <img width="377" alt="image" src="https://github.com/user-attachments/assets/28f984ee-80f9-43fd-abfc-751e849cd746"><br>
